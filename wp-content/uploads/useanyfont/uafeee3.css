@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'satoshi';
+					src: url('2323satoshi.woff2') format('woff2'),
+						url('2323satoshi.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.satoshi{font-family: 'satoshi' !important;}
+
+		
